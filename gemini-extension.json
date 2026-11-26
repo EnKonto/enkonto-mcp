@@ -1,0 +1,11 @@
+{
+  "name": "enkonto",
+  "version": "1.0.0",
+  "description": "Create, issue and send invoices, proformas and e-invoices for European companies, with confirmation before every send.",
+  "mcpServers": {
+    "enkonto": {
+      "httpUrl": "https://app.enkonto.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

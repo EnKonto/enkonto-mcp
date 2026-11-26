@@ -1,0 +1,12 @@
+{
+  "name": "enkonto",
+  "version": "1.0.0",
+  "description": "Create, issue and send invoices, proformas and e-invoices for European companies, with confirmation before every send.",
+  "author": {
+    "name": "EnKonto"
+  },
+  "homepage": "https://enkonto.com/en/guides/ai-apps-mcp",
+  "repository": "https://github.com/EnKonto/enkonto-mcp",
+  "keywords": ["invoicing", "invoices", "e-invoicing", "accounting", "xrechnung", "zugferd", "ksef", "peppol", "europe"],
+  "logo": "assets/logo.svg"
+}
