@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "enkonto": {
+      "url": "https://app.enkonto.com/mcp"
+    }
+  }
+}
