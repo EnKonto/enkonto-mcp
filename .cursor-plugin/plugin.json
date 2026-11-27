@@ -5,7 +5,7 @@
   "author": {
     "name": "EnKonto"
   },
-  "homepage": "https://enkonto.com/en/guides/ai-apps-mcp",
+  "homepage": "https://enkonto.com/en/guides/ai-apps-mcp#cursor",
   "repository": "https://github.com/EnKonto/enkonto-mcp",
   "keywords": ["invoicing", "invoices", "e-invoicing", "accounting", "xrechnung", "zugferd", "ksef", "peppol", "europe"],
   "logo": "assets/logo.svg"

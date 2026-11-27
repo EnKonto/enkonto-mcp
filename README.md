@@ -34,11 +34,11 @@ You need an EnKonto account: sign up at https://enkonto.com.
 gemini extensions install https://github.com/EnKonto/enkonto-mcp
 ```
 
-On the first call Gemini CLI opens the browser to sign in to EnKonto.
+On the first call Gemini CLI opens the browser to sign in to EnKonto. Step by step: https://enkonto.com/en/guides/ai-apps-mcp#gemini-cli
 
 ### Cursor
 
-[Add to Cursor](https://cursor.com/install-mcp?name=enkonto&config=eyJ1cmwiOiJodHRwczovL2FwcC5lbmtvbnRvLmNvbS9tY3AifQ==), or install the EnKonto plugin from the Cursor Marketplace once it is listed. The plugin adds the server and the `enkonto-invoicing` skill; Cursor opens the EnKonto sign-in page when it connects.
+[Add to Cursor](https://cursor.com/install-mcp?name=enkonto&config=eyJ1cmwiOiJodHRwczovL2FwcC5lbmtvbnRvLmNvbS9tY3AifQ==), or install the EnKonto plugin from the Cursor Marketplace once it is listed. The plugin adds the server and the `enkonto-invoicing` skill; Cursor opens the EnKonto sign-in page when it connects. Step by step: https://enkonto.com/en/guides/ai-apps-mcp#cursor
 
 ### Google Antigravity
 
@@ -48,7 +48,7 @@ Install the plugin from this repository (or from the Antigravity Marketplace onc
 agy plugin install https://github.com/EnKonto/enkonto-mcp
 ```
 
-The plugin adds the server and the `enkonto-invoicing` skill; Antigravity opens the EnKonto sign-in page in the browser when the server connects.
+The plugin adds the server and the `enkonto-invoicing` skill; Antigravity opens the EnKonto sign-in page in the browser when the server connects. Step by step: https://enkonto.com/en/guides/ai-apps-mcp#google-antigravity
 
 ### Other MCP clients
 
