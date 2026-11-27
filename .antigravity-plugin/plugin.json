@@ -1,0 +1,20 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "enkonto",
+  "displayName": "EnKonto",
+  "version": "1.0.0",
+  "description": "Create, issue and send invoices, proformas and e-invoices for European companies, with your confirmation before every send.",
+  "logo": "assets/logo-padded.svg",
+  "suggestedPrompts": [
+    "Show my unpaid and overdue invoices in EnKonto",
+    "Draft an invoice for 10 hours of consulting at 60 EUR for my latest customer",
+    "Check my draft invoice against the e-invoice rules of its country"
+  ],
+  "author": {
+    "name": "EnKonto",
+    "url": "https://enkonto.com"
+  },
+  "homepage": "https://enkonto.com/en/guides/ai-apps-mcp",
+  "repository": "https://github.com/EnKonto/enkonto-mcp",
+  "keywords": ["invoicing", "invoices", "e-invoicing", "accounting", "xrechnung", "zugferd", "ksef", "peppol", "europe"]
+}

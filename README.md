@@ -40,6 +40,16 @@ On the first call Gemini CLI opens the browser to sign in to EnKonto.
 
 [Add to Cursor](https://cursor.com/install-mcp?name=enkonto&config=eyJ1cmwiOiJodHRwczovL2FwcC5lbmtvbnRvLmNvbS9tY3AifQ==), or install the EnKonto plugin from the Cursor Marketplace once it is listed. The plugin adds the server and the `enkonto-invoicing` skill; Cursor opens the EnKonto sign-in page when it connects.
 
+### Google Antigravity
+
+Install the plugin from this repository (or from the Antigravity Marketplace once it is listed):
+
+```bash
+agy plugin install https://github.com/EnKonto/enkonto-mcp
+```
+
+The plugin adds the server and the `enkonto-invoicing` skill; Antigravity opens the EnKonto sign-in page in the browser when the server connects.
+
 ### Other MCP clients
 
 Add a remote MCP server with the URL `https://app.enkonto.com/mcp`, for example:
